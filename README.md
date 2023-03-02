@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Inigo</h1>
 
-<h3 align="center" >A passionate fullstack developer crafting digital solutions</h3>
+<h3 align="center" >A passionate Full Stack Web Developer ready to bring your ideas to life!</h3>
 <h2>About me:</h2>
 
 - 🔭👨‍🎓Pursuing my UG at Thiagarajar College of Engineering.
 
 - 🌱 I’m currently learning Backend technologies.
  
-- 👨🏻‍💻Striving for excellence in competitive coding, every single day
+- 👨🏻‍💻Striving for excellence in competitive coding, every single day.
 
 - 📫 How to reach me **danianto36@gmail.com**
 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
 <h3>👉Databases</h3>
