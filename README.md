@@ -4,7 +4,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Inigo</h1>
 
 <h3 align="center" >A passionate Full Stack Web Developer ready to bring your ideas to life!</h3>
+
+
 <h2>About me:</h2>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielInigo&layout=compact"/>
 
 - 🔭👨‍🎓Pursuing my UG at Thiagarajar College of Engineering.
 
