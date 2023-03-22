@@ -8,7 +8,7 @@
 
 <h2>About me:</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielInigo&layout=compact&theme=tokyonight  "/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielInigo&layout=compact&theme=tokyonight"/>
 
 - 🔭👨‍🎓Pursuing my UG at Thiagarajar College of Engineering.
 
