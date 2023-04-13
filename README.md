@@ -3,16 +3,16 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Inigo</h1>
 
-<h3 align="center" >A passionate Full Stack Web Developer ready to bring your ideas to life!</h3>
+<h3 align="center" >A passionate Application Developer ready to bring your ideas to life!</h3>
 
 
 <h2>About me:</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielInigo&layout=compact&theme=tokyonight"/>
 
-- 🔭👨‍🎓Pursuing my UG at Thiagarajar College of Engineering.
+- 👨‍🎓Pursuing my UG at Thiagarajar College of Engineering.
 
-- 🌱 I’m currently learning Backend technologies.
+- 🌱 I’m currently learning new technologies.
  
 - 👨🏻‍💻Striving for excellence in competitive coding, every single day.
 
